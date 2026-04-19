@@ -187,7 +187,7 @@ This project gave me hands-on practice with how identity and access management i
 
 ---
 
-## Resume Bullet Points
+## Project Highlights
 - Built a Windows Active Directory homelab in Oracle VirtualBox with a Domain Controller and domain-joined client to simulate enterprise identity and access management
 - Bulk-created 100 domain user accounts using PowerShell and organized them into department-based OUs and security groups
 - Implemented role-based access control by assigning shared folder permissions through Active Directory security groups
